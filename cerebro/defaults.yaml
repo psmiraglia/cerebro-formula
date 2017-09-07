@@ -1,7 +1,7 @@
 cerebro:
     # binaries
-    version: '0.6.5'
-    hash: 'e0fab203496c3216561070df0b2dbd90ade83dfa0dc2fb380a88369958dc1e28'
+    version: '0.6.6'
+    hash: 'cc60c218f1f1fe7a8a70395828374225eb0e0d268ed92931cac74e30a058a25a'
     home: /opt/cerebro
     # user
     user: cerebro
